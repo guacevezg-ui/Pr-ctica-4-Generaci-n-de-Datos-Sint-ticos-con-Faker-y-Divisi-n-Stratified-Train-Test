@@ -1,0 +1,29 @@
+# =========================================================================
+# GITIGNORE PARA PRÁCTICA 4: GENERACIÓN SINTÉTICA Y PARTICIÓN ESTRATIFICADA
+# =========================================================================
+
+# --- Carpetas de Entornos Virtuales Locales (¡Prohibido subir a GitHub!) ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Caché del Intérprete de Python y Compilación ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Carpetas Ocultas del Entorno de Desarrollo (VS Code e IDEs) ---
+.vscode/
+.idea/
+*.suo
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Archivos Temporales y Bitácoras de Error ---
+*.tmp
+*.bak
+*.log
