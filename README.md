@@ -1,0 +1,2 @@
+# Pr-ctica-4-Generaci-n-de-Datos-Sint-ticos-con-Faker-y-Divisi-n-Stratified-Train-Test
+Generar un conjunto de datos sintéticos estructurados de 1,000 registros utilizando la librería Faker (con localización para México es_MX) y aplicar una partición probabilística sin sesgo mediante la técnica de muestreo estratificado (Stratified Train-Test Split) con scikit-learn para preservar la proporción de clases desbalanceadas.
